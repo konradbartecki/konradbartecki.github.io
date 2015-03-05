@@ -1,5 +1,5 @@
 # Site settings
-title: Clean Blog
+title: Konrad Bartecki
 header-img: img/home-bg.jpg
 email: konradbartecki@outlook.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
@@ -7,7 +7,6 @@ baseurl: ""
 url: "http://konradbartecki.github.io"
 twitter_username: KBartecki
 github_username:  konradbartecki
-facebook_username:  none
 
 # Build settings
 markdown: kramdown
