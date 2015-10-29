@@ -1,16 +1,31 @@
 # Site settings
-title: Konrad Bartecki
-header-img: img/home-bg.jpg
+title: "Konrad Bartecki"
 email: konradbartecki@outlook.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Konrad Bartecki - personal blog"
 baseurl: ""
-url: "http://konradbartecki.github.io"
+url: "http://bartecki.org/"
+title_description: "Mobile, Windows Phone, C# and Xamarin developer living in Warsaw, Poland"
+title_image: "http://www.gravatar.com/avatar/b5227e049a474e70d971d10beef6f5d8.jpg?s=500&d=mm"
+#google_analytics: "UA-20365477-4"
+#disqus_account: cartenoire
+#github_repository: https://github.com/jacobtomlinson/carte-noire
+#addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
 twitter_username: KBartecki
 github_username:  konradbartecki
+#linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+windows_store_link: https://www.microsoft.com/en-us/search/result.aspx?q=Konrad+Bartecki&form=apps
+stackoverflow_link: http://stackoverflow.com/users/3880556/konrad-bartecki
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
-markdown: kramdown
-highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 permalink: pretty
-paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: [vendor]
