@@ -3,9 +3,9 @@ title: "Konrad Bartecki"
 email: konradbartecki@outlook.com
 description: "Konrad Bartecki - personal blog"
 baseurl: ""
-url: "http://bartecki.org/"
+url: "http://bartecki.pro/"
 title_description: "Mobile, Windows Phone, C# and Xamarin developer living in Warsaw, Poland"
-title_image: "http://www.gravatar.com/avatar/b5227e049a474e70d971d10beef6f5d8.jpg?s=500&d=mm"
+title_image: "http://www.gravatar.com/avatar/786789f1086629a378382f3b3121dcf1.jpg?s=500&d=mm"
 #google_analytics: "UA-20365477-4"
 #disqus_account: cartenoire
 #github_repository: https://github.com/jacobtomlinson/carte-noire
@@ -15,7 +15,7 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: KBartecki
 github_username:  konradbartecki
-#linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: http://linkedin.com/in/konradbartecki
 windows_store_link: https://www.microsoft.com/en-us/search/result.aspx?q=Konrad+Bartecki&form=apps
 stackoverflow_link: http://stackoverflow.com/users/3880556/konrad-bartecki
 
