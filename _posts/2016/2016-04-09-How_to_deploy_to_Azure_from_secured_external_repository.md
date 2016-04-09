@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Azure - How to deploy from secured external repository'
+title:  'How to deploy to Azure from secured external repository'
 date:   2016-04-09 21:00:00
 categories: azure
 tags:
