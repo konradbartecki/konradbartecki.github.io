@@ -12,7 +12,7 @@ When utilizing Dynamics CRM 2015 Client SDK I have encountered a problem where C
 
 For example: Using Client SDK I wanted to download a list of Incidents from IncidentSet. Once downloaded, the following calls to IncidentSet would always return the same data every request, even if some incident details were changed in CRM Portal. After a while of searching the interwebz __it turns out you can disable the cache using .TryAccessCache() extension method.__
 
-```
+```csharp
 var connection = CrmConnection.Parse(connectionString);
 var org = new CrmOrganizationServiceContext(connection);
 org.TryAccessCache(x => x.Mode = OrganizationServiceCacheMode.Disabled);
