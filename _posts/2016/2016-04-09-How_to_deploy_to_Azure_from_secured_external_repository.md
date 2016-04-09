@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  'How to deploy to Azure from secured external repository'
+title:  'How to deploy to Azure from secured external git repo'
 date:   2016-04-09
 categories: azure
 tags:
   - azure
   - deploy
+  - git
+  - vsonline
   - ci
 ---
 I had a problem recently, when I wanted to deploy my azure website automatically from external git repository hosted on Visual Studio Online. Once I've picked the Visual Studio Team Services option - it showed me only projects from my worksplace VSTS, but I wanted to deploy from my personal VSTS.
