@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Disabling cache in Dynamics CRM 2015 Client SDK
-date:   2016-04-06 23:40:00
+date:   2016-04-06
 categories: crm
 tags:
   - crm
