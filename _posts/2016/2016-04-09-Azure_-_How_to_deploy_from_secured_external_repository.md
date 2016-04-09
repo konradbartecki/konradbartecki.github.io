@@ -19,5 +19,5 @@ If you want to use the second option here's how you should do it.
 ```
 https://yourlogin%40outlook.com:password@yourHostedVSTS.visualstudio.com/DefaultCollection/YourProjectName/
 ```
-Take a note that if your login is an email - you should use an escape characters "%40" instead of "@" symbol,
+Take a note that if your login is an email - you should use an escape characters %40 instead of @ symbol,
 so instead of using yourlogin@outlook.com you have to use yourlogin%40outlook.com
