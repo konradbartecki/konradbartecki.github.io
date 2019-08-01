@@ -1,12 +1,11 @@
 # Site settings
 title: "Konrad Bartecki"
-email: konradbartecki@outlook.com
+email: konrad@bartecki.me
 description: "Konrad Bartecki - personal blog"
 baseurl: ""
-url: "http://bartecki.pro"
-title_description: "Microsoft Certified Professional, .NET Developer at Predica.pl"
-title_image: "http://www.gravatar.com/avatar/786789f1086629a378382f3b3121dcf1.jpg?s=500&d=mm"
-#google_analytics: "UA-20365477-4"
+url: "http://bartecki.me"
+title_description: "Microsoft Certified Solutions Developer, .NET dev at Mash"
+title_image: "https://secure.gravatar.com/avatar/b5227e049a474e70d971d10beef6f5d8?s=200&d=mm"
 disqus_account: barteckipro
 github_repository: https://github.com/konradbartecki/konradbartecki.github.io
 #addthis_id: ra-513c6fa83da6ec67
